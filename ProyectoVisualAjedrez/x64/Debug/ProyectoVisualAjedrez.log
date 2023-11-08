@@ -1,0 +1,52 @@
+﻿  Main.cpp
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(1558,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(1558,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(1650,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(1650,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(1794,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(1795,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2083,106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2083,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2088,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2088,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2105,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2105,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2110,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2110,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2115,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2115,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2121,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2121,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2127,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2127,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2132,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2132,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2137,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2137,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2142,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2142,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2147,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2147,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2152,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2152,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2157,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2157,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2162,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\50497\source\repos\ProyectoVisualAjedrez\ProyectoVisualAjedrez\Main.cpp(2162,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ProyectoVisualAjedrez.vcxproj -> C:\Users\50497\source\repos\ProyectoVisualAjedrez\x64\Debug\ProyectoVisualAjedrez.exe
